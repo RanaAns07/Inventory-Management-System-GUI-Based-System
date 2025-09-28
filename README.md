@@ -73,6 +73,7 @@ Inventory Management System/
 - See `requirement.txt` for all dependencies.
 
 ## Reference Images
+
 <img width="1112" height="546" alt="image" src="https://github.com/user-attachments/assets/adf0022e-568d-4f88-bde9-708fe9a24681" />
 <img width="1112" height="546" alt="image" src="https://github.com/user-attachments/assets/d29385c7-57c2-421d-a6a0-d4834de1b5bc" />
 <img width="1374" height="784" alt="image" src="https://github.com/user-attachments/assets/b1659a68-e918-4a7e-9a97-686de0ae4a4c" />
