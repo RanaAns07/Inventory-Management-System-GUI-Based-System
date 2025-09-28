@@ -72,6 +72,15 @@ Inventory Management System/
 - Matplotlib
 - See `requirement.txt` for all dependencies.
 
+## Reference Images
+<img width="1112" height="546" alt="image" src="https://github.com/user-attachments/assets/adf0022e-568d-4f88-bde9-708fe9a24681" />
+<img width="1112" height="546" alt="image" src="https://github.com/user-attachments/assets/d29385c7-57c2-421d-a6a0-d4834de1b5bc" />
+<img width="1374" height="784" alt="image" src="https://github.com/user-attachments/assets/b1659a68-e918-4a7e-9a97-686de0ae4a4c" />
+<img width="1374" height="784" alt="image" src="https://github.com/user-attachments/assets/ed593ddd-4393-4402-b8a1-cb6e0e5ebf67" />
+<img width="1374" height="784" alt="image" src="https://github.com/user-attachments/assets/d01ac2e6-21ca-41d6-bb1f-9949d218b2f5" />
+
+
+
 ## Troubleshooting
 
 - **Blank Small Window:** If you see a blank window, ensure you start the app from `Login_window.py` and not `dashboard.py`.
