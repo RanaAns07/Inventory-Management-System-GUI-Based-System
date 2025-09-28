@@ -31,7 +31,7 @@ Inventory Management System/
 
 1. **Clone the repository:**
    ```bash
-   git clone <your-repo-url>
+   git clone (https://github.com/RanaAns07/Inventory-Management-System-GUI-Based-System.git)
    cd "Inventory Management System"
    ```
 
